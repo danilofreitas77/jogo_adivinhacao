@@ -28,7 +28,7 @@ Um jogo simples de console onde o jogador deve adivinhar um número aleatório e
 ## Tecnologias
 
 - Java
-- Execução via terminal ou IDE (IntelliJ, Eclipse, VS Code)
+- Intellij
 
 ---
 
